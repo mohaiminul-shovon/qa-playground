@@ -1,0 +1,26 @@
+{
+  "name": "qa-playground",
+  "version": "1.0.0",
+  "description": "Random automation problems",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohaiminul-shovon/qa-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohaiminul-shovon/qa-playground/issues"
+  },
+  "homepage": "https://github.com/mohaiminul-shovon/qa-playground#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "typescript": "^6.0.3"
+  }
+}
